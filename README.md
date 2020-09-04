@@ -23,7 +23,7 @@ Suggested improvements:
 Wisdom learned:
  - CHECK YOUR O'S ARE O'S AND NOT 0'S
  
- ### 3. Numeric Matrix Processor:
+ ### 3. Numeric Matrix Processor
  A simple matrix processor for common operations (addition, multiplication, transpose...)
  
  Learning objectives:
