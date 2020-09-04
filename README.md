@@ -22,4 +22,15 @@ Suggested improvements:
  
 Wisdom learned:
  - CHECK YOUR O'S ARE O'S AND NOT 0'S
+ 
+ ### 3. Numeric Matrix Processor:
+ A simple matrix processor for common operations (addition, multiplication, transpose...)
+ 
+ Learning objectives:
+  - Basic control statements and recursion;
+  - Class/OOP syntax;
+  
+Suggested improvements:
+  - Exception handling (right now all inputs are considered valid);
+  - Improve display() method so it rounds/pads values
 
