@@ -15,10 +15,10 @@ Learning objectives:
  - Basic: control statements, array manipulations, recursions;
  - Minimax implementation;
  
-Suggested improvements:
+Possible improvements:
  - Store board in a list to clean up indices (maybe this would make it less legible though);
  - Speed up minimax implementation;
- - Check scalability
+ - Scalability to an nxn grid;
  
 Wisdom learned:
  - CHECK YOUR O'S ARE O'S AND NOT 0'S
@@ -30,7 +30,19 @@ Wisdom learned:
   - Basic control statements and recursion;
   - Class/OOP syntax;
   
-Suggested improvements:
+Possible improvements:
   - Exception handling (right now all inputs are considered valid);
-  - Improve display() method so it rounds/pads values
+  - Improve display() method so it rounds/pads values;
 
+### 4. Smart calculator
+A smart integer calculator with bracket support.
+
+Learning objectives:
+ - Parsing user input;
+ - Exception handling;
+ - Stacks and queues;
+ 
+ Possible improvements:
+  - Add support for functions;
+  - Add "last answer" command;
+  - Powers, floats, exponentials... 
