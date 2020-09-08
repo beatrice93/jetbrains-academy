@@ -206,8 +206,8 @@ def main():
                     break
                 elif choice == "/help":
                     print("Evaluate any expression with integers and four operators."
-                          "\nSupports parentheses and repeated operators like '++' and '---'".
-                          "\nTo assign a variable, enter eg. a = 2. Variables can be assigned" \
+                          "\nSupports parentheses and repeated operators like '++' and '---'"
+                          "\nTo assign a variable, enter eg. a = 2. Variables can be assigned"
                           "to the value of other variables eg b = a.")
                 else:
                     print("Unknown command")
