@@ -1,14 +1,14 @@
 # Jetbrains academy
 Projects from the hyperskill.org Python Developer track.
 
-### 1. To-Do List
+### 1. To-Do List.
 A basic python To-Do list. 
 
 Learning objectives:
  - Basic SQL queries
  - Vocabulary of OOP
 
-### 2. Tic-Tac-Toe
+### 2. Tic-Tac-Toe.
 A command-line game of Tic-Tac-Toe with three AI difficulty levels.
 
 Learning objectives:
@@ -23,7 +23,7 @@ Possible improvements:
 Wisdom learned:
  - CHECK YOUR O'S ARE O'S AND NOT 0'S
  
- ### 3. Numeric Matrix Processor
+ ### 3. Numeric Matrix Processor.
  A simple matrix processor for common operations (addition, multiplication, transpose...)
  
  Learning objectives:
@@ -34,7 +34,7 @@ Possible improvements:
   - Exception handling (right now all inputs are considered valid);
   - Improve display() method so it rounds/pads values;
 
-### 4. Smart calculator
+### 4. Smart calculator.
 A smart integer calculator with bracket support.
 
 Learning objectives:
@@ -46,3 +46,17 @@ Learning objectives:
   - Add support for functions;
   - Add "last answer" command;
   - Powers, floats, exponentials... 
+
+### 5. Text-based browser.
+Reads HTML page, writes it to a file with links highlighted in blue.
+
+Learning objectives:
+ - Handling user input;
+ - HTTP requests;
+ - Reading and writing files in Python;
+ - Web scraping basics with BeautifulSoup;
+ 
+Suggested improvements/bug fixes:
+ - Get rid of strings only constituted of whitespace;
+ - Fix tab names (there could be some conflicts/bugs);
+ - Return HTTP error codes
